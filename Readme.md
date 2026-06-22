@@ -157,8 +157,6 @@ Phishing-Email-Investigation/
 ├── README.md
 ├── Investigation_Report.md
 ├── IOC_List.md
-├── Artifacts/
-│   └── URGENT_Microsoft_365_Password_Expiration_Notice.eml
 │
 └── Screenshots/
     ├── 01_Phishing_Email_Received.png
